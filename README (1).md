@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="profile.jpg" width="150" style="border-radius: 50%;" />
-</p>
-
+| <img src="profile.jpg" width="120" /> | **Hi there, I'm Shweta Kale** 👋 ... |
+|---|---|
 # Hi there, I'm Shweta Kale 👋
 
 **Data Analyst** | 🐍 Python | 📊 Power BI | 🤖 Machine Learning | 📈 Business Intelligence
