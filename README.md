@@ -1,22 +1,18 @@
 <p align="center">
-  <img src="photo.jpg" width="150" />
+  <img src="photo.jpg" width="200" style="border-radius: 50%; border: 3px solid #ccc;" />
 </p>
+
 # Hi there, I'm Shweta Kale 👋
 
-**Data Analyst** | 🐍 Python | 📊 Power BI | 🤖 Machine Learning | 📈 Business Intelligence
+**Data Analyst** | 🐍 Python | 📊 Power BI | 🤖 Machine Learning | 📝 Business Intelligence
 
 ---
 
 ## About Me
 
 - 🎓 M.Sc. Data Analytics — **Berlin School of Business and Innovation** *(2024–2026)*
-- 💼 Previously: Data Science Associate @ DigiAlly | Data Manager Intern @ Arihant Engineers
-- 📍 Based in **Stuttgart, Germany**
-- 🌱 Currently working on my dissertation: *Predictive Modelling for SME Financial Distress*
+- 📍 Based in Germany
 - 🎯 Goal: To turn complex data into clear, actionable business decisions
-- 🌍 Languages: English (C1) · German (A1) · Hindi (C2)
-
----
 
 ## 🛠️ Tools & Technologies
 
