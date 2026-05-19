@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="photo.jpg" width="200" style="border-radius: 50%; border: 3px solid #ccc;" />
-</p>
-
 # Hi there, I'm Shweta Kale 👋
 
 **Data Analyst** | 🐍 Python | 📊 Power BI | 🤖 Machine Learning | 📝 Business Intelligence
